@@ -11,7 +11,8 @@ header ,#featured-property{text-align: center;}
     display: block;
         }
 a{
-  padding:auto;
+  padding-left: 10px;
+  padding-right: 10px;
   background: grey;
 }
 #featured-property p {
